@@ -61,7 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so \
     vendor/motorola/msm8916-common/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/msm8916-common/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
-    vendor/motorola/msm8916-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/motorola/msm8916-common/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti:system/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:system/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/com.qualcomm.qti.ant@1.0_vendor.so:system/vendor/lib/com.qualcomm.qti.ant@1.0_vendor.so \
@@ -166,8 +165,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libsubsystem_control.so:system/vendor/lib/libsubsystem_control.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
-    vendor/motorola/msm8916-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
-    vendor/motorola/msm8916-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libvoice-svc.so:system/vendor/lib/libvoice-svc.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \

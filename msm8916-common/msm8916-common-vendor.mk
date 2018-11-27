@@ -64,6 +64,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti:system/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:system/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
     vendor/motorola/msm8916-common/proprietary/vendor/bin/hw/android.hardware.drm@1.0-service.widevine:system/vendor/bin/hw/android.hardware.drm@1.0-service.widevine \
+    vendor/motorola/msm8916-common/proprietary/vendor/bin/pm-service:system/vendor/bin/pm-service \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/init/android.hardware.drm@1.0-service.widevine.rc:system/vendor/etc/init/android.hardware.drm@1.0-service.widevine.rc \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/com.qualcomm.qti.ant@1.0_vendor.so:system/vendor/lib/com.qualcomm.qti.ant@1.0_vendor.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/com.qualcomm.qti.bluetooth_audio@1.0_vendor.so:system/vendor/lib/com.qualcomm.qti.bluetooth_audio@1.0_vendor.so \
